@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vttang
+HostName                       crystalcove.eecs.uci.edu
+ProcessIdentifier              2856356
+ProcessCreationTime_UTC        1776492203
+ProcessCreationTime_Readable   Fri Apr 17 23:03:23 2026 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /users/ugrad/vttang/EECS170D/Cadence6/EECS_170D/2INP_XOR/layout/layout.oa.cdslck
+TimeEditLocked                 Fri Apr 17 23:56:32 2026 PDT
